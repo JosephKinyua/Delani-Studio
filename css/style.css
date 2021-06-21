@@ -20,3 +20,12 @@
 .about-us {
     text-align: center;
 }
+
+.services {
+    background-image: url("../images/background/comp.jpg");
+    padding-bottom: 25%;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+}
