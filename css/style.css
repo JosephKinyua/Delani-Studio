@@ -6,3 +6,9 @@
     color: white;
     background-position: top;
 }
+
+.welcome {
+    position: absolute;
+    top: 38%;
+    left: 35%;
+}
