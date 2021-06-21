@@ -1,4 +1,4 @@
-# Akan-Name-Calculator
+# Delani-studio
 #### A project which describes about the delan studio with all description about it, achieved by using  HTML,CSS,Javascript and jQuery, 2021
 #### By Joseph Nyaga
 ## Description
