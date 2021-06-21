@@ -59,3 +59,11 @@
 #pic3 {
     display: show;
 }
+
+.work p {
+    position: relative;
+    font-size: 30px;
+    top: -50%;
+    text-align: center;
+    display: none;
+}
