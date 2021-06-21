@@ -1,0 +1,8 @@
+.introduction {
+    background-image: url("../images/background/header.jpg");
+    padding-bottom: 55%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    background-position: top;
+}
