@@ -29,3 +29,9 @@
     color: white;
     text-align: center;
 }
+
+.centered {
+    position: absolute;
+    top: 150%;
+    left: 25%;
+}
