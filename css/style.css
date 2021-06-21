@@ -73,3 +73,9 @@ h3 {
     color: white;
     margin-top: 100px;
 }
+
+.contact {
+    background-image: url("../images/background/footer.jpg");
+    padding-bottom: 5%;
+    background-position: top;
+}
