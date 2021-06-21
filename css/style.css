@@ -35,3 +35,27 @@
     top: 150%;
     left: 25%;
 }
+
+#boom1 {
+    display: none;
+}
+
+#pic1 {
+    display: show;
+}
+
+#boom2 {
+    display: none;
+}
+
+#pic2 {
+    display: show;
+}
+
+#boom3 {
+    display: none;
+}
+
+#pic3 {
+    display: show;
+}
