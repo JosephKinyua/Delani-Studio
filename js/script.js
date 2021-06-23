@@ -39,3 +39,11 @@ $(document).ready(function() {
         $("#port8").toggle();
     });
 });
+
+function nameOfUser() {
+    var name = document.getElementById("name").value;
+    var email = document.getElementById("email").value;
+    var area = document.getElementById("area").value;
+    alert(name + " " + email + " " + area);
+
+};
